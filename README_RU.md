@@ -1,5 +1,5 @@
 <a id = "anchor"></a>
-
+![](https://komarev.com/ghpvc/?username=userikzhan)
 # Data Analysis Pro
 
 Учебные проекты по программе Data Analyst Pro (специализация: Продуктовая Аналитика) в Skillfactory - школа онлайн программирования.

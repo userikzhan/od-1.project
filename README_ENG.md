@@ -1,6 +1,6 @@
 <a id = "anchor"></a>
 ![](https://komarev.com/ghpvc/?username=userikzhan)
-# Data Analysis - practical work
+# Data Analysis: practical work
 
 Description of non-commercial projects as <b>Data Analyst</b> at Skillfactory - online programming school.<br>(Specialization: <b>Product Analytics</b>)
 | Project           | Field/Industry  | Skills and Tools     | Tasks

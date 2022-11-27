@@ -1,8 +1,8 @@
 <a id = "anchor"></a>
 ![](https://komarev.com/ghpvc/?username=userikzhan)
-# Data Analyst Pro
+# Data Analysis - practical work
 
-Description of non-commercial projects (specialization: Product Analytics) at Skillfactory - online programming school.
+Description of non-commercial projects as <b>Data Analyst</b> at Skillfactory - online programming school.<br>(specialization: <b>Product Analytics</b>)
 | Project           | Field/Industry  | Skills and Tools     | Tasks
 :-------------------|:---------------:|:--------------------:|-------:|
 | 1. Marketing analytics in the Heaven's Door e-commerce company, selling doors through the website.<br><br> Course: "Data Analyst" | • Data Analytics<br>• Marketing Analytics<br>• Sales Funnel<br>• E-Commerce<br>• eCommerce Business Model | • Microsoft Excel<br>• Google Sheets<br>• Pivot Tables | 1. Improve the effectiveness of contextual advertising in the Yandex.Direct network:<br>1) Determine the most inefficient advertising campaigns and ad groups (metrics: CTR, CPC).<br>2) Identify landing pages with the lowest conversion from visit to order creation .<br>3) Identify advertising campaigns with the highest and lowest cost per lead (CPL). |
